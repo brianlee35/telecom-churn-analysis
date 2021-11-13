@@ -2,6 +2,8 @@
 
 **Author**: Brian Lee
 
+![Telecom](images/tower.jpg)
+
 ## Overview
 
 For this project, various machine-learning methods were used to analyze and create predictive models for customer churn in a telecomunications company. The descriptive analysis of the telecom customer churn dataset show that specific factors have a larger influence on whether a customer wants to stay with the telecom company. The telecom company can use this information to retain more customers by addressing the factors that are causing customers churn from the company, leading to greater company profits.
